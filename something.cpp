@@ -1,3 +1,18 @@
+/*
+    Name : Jaswanth Mada
+    Course Number : 51520-001 002
+    Assignment Description : This is a CPU Scheduling Simulation program 
+    written in C++. This program simulates the execution of processes by a  
+    computer system with a large memory, one terminal per user, a CPU 
+    and one disk drive. Each Process described by its class (REAL-TIME)
+    or (INTERACTIVE), start time and a sequence of resource requests 
+    including CPU requests(CPU), Disk Reads(DISK), and terminal Accesses
+    (TTY). Real time processes have a deadline and they must be given higher
+    priority over INTERACTIVE processes. When a REAL TIME process arrives, 
+    the INTERACTIVE process should come out of CPU and the REAL TIME process
+    must be given the CPU.
+
+*/
 #include<iostream>
 #include<string.h>
 #include<queue>
