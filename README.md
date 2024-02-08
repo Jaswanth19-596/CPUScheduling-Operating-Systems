@@ -12,7 +12,7 @@ This is a process scheduler simulation program written in C++. It simulates the 
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/yourusername/process-scheduler.git
+    git clone https://github.com/Jaswanth19-596/CPUScheduling-Operating-Systems.git
     ```
 
 2. **Compile the Code:**
